@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- NOTE: be sure to replace CB_USERNAME, SERVERS, USERNAME, and PASSWORD with the appropriate values. !>
+<cloudbees-web-app xmlns="http://www.cloudbees.com/xml/webapp/1">
+  <appid>CB_USERNAME/memcachiercloudbees</appid>
+
+  <context-param>
+    <param-name>MEMCACHIER_SERVERS</param-name>
+    <param-value>SERVERS</param-value>
+  </context-param>
+  <context-param>
+    <param-name>MEMCACHIER_USERNAME</param-name>
+    <param-value>USERNAME</param-value>
+  </context-param>
+  <context-param>
+    <param-name>MEMCACHIER_PASSWORD</param-name>
+    <param-value>PASSWORD</param-value>
+  </context-param>
+</cloudbees-web-app>

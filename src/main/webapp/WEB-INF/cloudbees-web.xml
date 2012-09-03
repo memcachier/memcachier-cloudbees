@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!-- NOTE: be sure to replace CB_USERNAME, SERVERS, USERNAME, and PASSWORD with the appropriate values. !>
+<!-- NOTE: be sure to replace CB_USERNAME, SERVERS, USERNAME, and PASSWORD with the appropriate values. -->
 <cloudbees-web-app xmlns="http://www.cloudbees.com/xml/webapp/1">
   <appid>CB_USERNAME/memcachiercloudbees</appid>
 
